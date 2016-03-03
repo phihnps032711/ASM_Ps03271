@@ -1,0 +1,13 @@
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.xml
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Dangnhap.resources
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Resources.resources
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.vbproj.GenerateResource.Cache
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.xml
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Khachhang.resources
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.mainquanlybanhang.resources
+C:\Users\hoangphi\Desktop\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Sanpham.resources
